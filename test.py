@@ -1,1 +1,1 @@
-print("yffffgfgfg")
+print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")print("yffffgfgfg")
