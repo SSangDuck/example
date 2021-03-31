@@ -1,4 +1,7 @@
-a,r,n = map(int, input().split())
+a,m,d,n = map(int, input().split())
 
-print(a*r**(n-1))
+y = a
+for i in range(n-1):
+    y = (y * m ) + d
 
+print(y)
