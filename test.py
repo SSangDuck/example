@@ -5,4 +5,4 @@ for i in range(n-1):
     y = (y * m ) + d
 
 print(y)
-
+t
